@@ -1,13 +1,11 @@
 ---
 guest: Nick Turley
-title: 'Inside ChatGPT: The fastest growing product in history  | Nick Turley (OpenAI)'
+title: 'Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)'
 youtube_url: https://www.youtube.com/watch?v=ixY2PvQJ0To
 video_id: ixY2PvQJ0To
-description: 'Nick Turley is Head of ChatGPT, the fastest-growing product in history,
-  with 700 million weekly active users (10% of the world’s population). He was part
-  of the original hackathon team that...
-
-  '
+description: Nick Turley is Head of ChatGPT, the fastest-growing product in history,
+  with 700 million weekly active users (10% of the world's population). He was part
+  of the original hackathon team that built ChatGPT.
 duration_seconds: 5738.0
 duration: '1:35:38'
 view_count: 184717
@@ -30,7 +28,7 @@ keywords:
 - strategy
 ---
 
-# Inside ChatGPT: The fastest growing product in history  | Nick Turley (OpenAI)
+# Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)
 
 ## Transcript
 
