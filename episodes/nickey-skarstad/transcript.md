@@ -4,7 +4,7 @@ title: Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision i
   product quality, second-order decisions, brainstorming, influence, and much more
 spotify_url: https://open.spotify.com/episode/6FKUgLvnlpyLOyMbykXm6u
 spotify_id: 6FKUgLvnlpyLOyMbykXm6u
-publish_date: '2022-07-18'
+publish_date: 2022-07-18
 description: "Listen to this episode from Lenny's Podcast: Product | Career | Growth on Spotify. Nickey\
   \ Skarstad is a Director of Product Management at Duolingo, where she is leading a stealth 0 \u2192\
   \ 1 product. Prior to Duolingo, she was VP of Product at The Wing, Product Lead at Airbnb, where she\

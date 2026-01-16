@@ -3,7 +3,7 @@ guest: Rachel Lockett
 title: A guide to difficult conversations, building high-trust teams, and designing a life you love
 youtube_url: https://www.youtube.com/watch?v=1GDVum5IarI
 video_id: 1GDVum5IarI
-publish_date: '2025-11-23'
+publish_date: 2025-11-23
 description: "Rachel Lockett is a sought-after executive coach and former HR leader at Stripe and Pinterest\
   \ who now works with CEOs, founders, and tech leaders on emotional intelligence, resilience, and leadership\
   \ skills. In this episode, Rachel shares powerful frameworks for coaching reports, having difficult\
